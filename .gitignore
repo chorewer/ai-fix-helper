@@ -1,2 +1,3 @@
 /data
 .env
+/LLM-langchain/LLM-train/ptuning/output
